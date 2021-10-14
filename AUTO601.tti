@@ -1,0 +1,84 @@
+DE,processPage,1634238027
+PS,c000
+CT,30,T
+PN,60101
+SC,0001
+OL,0,NMS 2021ECIMSBNMPServer5FprocessPage
+OL,1,V|,,,,,,l|4F````````````````````````````
+OL,2,V"!j5j=5S{%{%+%( G      THU-FRI  
+OL,3,V  +>!j5Sz5z5z5`0G      2100-0005
+OL,4,V/,,,,,,.-%F``````````````````````G 1/3 
+OL,5,C2100GAmbulanceC                        
+OL,6,F     3/6. A 999 call for a patient who 
+OL,7,F     has fallen from a horse in a      
+OL,8,F     remote area takes priority for    
+OL,9,F     crewmates Chris and Lee on a very 
+OL,10,F     busy day shift in Lancashire. Also
+OL,11,F     in HD. (S)                        
+OL,12,C2200GBBC News at TenC                  
+OL,13,C2225GEast Midlands TodayC              
+OL,14,F     The latest news, sport and weather
+OL,15,F     for the East Midlands. (S)        
+OL,16,C2235GQuestion TimeC                    
+OL,17,F     Fiona Bruce presents an hour of   
+OL,18,F     topical debate. Also in HD. (S)   
+OL,19,C2335GPrince William does NewscastC     
+OL,20,C0005GBlankety BlankC                   
+OL,22,F]DS=Subtitles  AD=Audio Description    
+OL,23,D]FBBC1A601FBBC2A602F C4A604FOn nowA606 
+OL,24,ABBC2    BITV 1   CCh 4   FNow & Next   
+FL,602,603,604,606,8ff,100
+PN,60102
+SC,0002
+OL,0,NMS 2021ECIMSBNMPServer5FprocessPage
+OL,1,V|,,,,,,l|4F````````````````````````````
+OL,2,V"!j5j=5S{%{%+%( G      FRIDAY   
+OL,3,V  +>!j5Sz5z5z5`0G      0040-1930
+OL,4,V/,,,,,,.-%F``````````````````````G 2/3 
+OL,5,C0040GThe Hit ListC                     
+OL,6,F     2/6. Featuring teams from         
+OL,7,F     Stoke-on-Trent, Dundee and        
+OL,8,F     Swansea. Also in HD. (S)          
+OL,9,C0125GWeather for the Week AheadC       
+OL,10,C0130GBBC NewsC                         
+OL,11,C0600GBreakfastC                        
+OL,12,F     The latest news, sport, business  
+OL,13,F     and weather from the BBC's        
+OL,14,F     Breakfast team. Also in HD. (S)   
+OL,15,C0915GRip Off BritainC                  
+OL,16,C1900GThe One ShowC                     
+OL,17,F     The stories that matter from      
+OL,18,F     across the country. Also in HD.   
+OL,19,F     (S)                               
+OL,20,C1930GQuestion of SportC                
+OL,22,F]DS=Subtitles  AD=Audio Description    
+OL,23,D]FBBC1A601FBBC2A602F C4A604FOn nowA606 
+OL,24,ABBC2    BITV 1   CCh 4   FNow & Next   
+FL,602,603,604,606,8ff,100
+PN,60103
+SC,0003
+OL,0,NMS 2021ECIMSBNMPServer5FprocessPage
+OL,1,V|,,,,,,l|4F````````````````````````````
+OL,2,V"!j5j=5S{%{%+%( G      FRIDAY   
+OL,3,V  +>!j5Sz5z5z5`0G      2000-2100
+OL,4,V/,,,,,,.-%F``````````````````````G 3/3 
+OL,5,C2000GEastEndersC                       
+OL,6,F     Kim faces a harsh reality, Chelsea
+OL,7,F     and Whitney form an unlikely bond 
+OL,8,F     and Gray is left in a predicament 
+OL,9,F     with work. Billy offers to help   
+OL,10,F     Janine out, much to Jay's         
+OL,11,F     disapproval. Also in HD. (S,AD)   
+OL,12,C2030GRichard Osman's House of Games    
+OL,13,     GNightC                            
+OL,14,F     3/6. Ed Gamble, Sian Gibson, Dara 
+OL,15,F     O'Briain and Sindhu Vee test their
+OL,16,F     general knowledge skills in a     
+OL,17,F     variety of fun trivia-based games 
+OL,18,F     selected by host Richard Osman.   
+OL,19,F     Also in HD. (S)                   
+OL,20,C2100GHave I Got News for YouC          
+OL,22,F]DS=Subtitles  AD=Audio Description    
+OL,23,D]FBBC1A601FBBC2A602F C4A604FOn nowA606 
+OL,24,ABBC2    BITV 1   CCh 4   FNow & Next   
+FL,602,603,604,606,8ff,100
